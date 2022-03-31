@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/S"
+        tools:layout_editor_absoluteX="231dp"
+        tools:layout_editor_absoluteY="667dp" />
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Your Trips"
+        android:layout_marginLeft="26dp"
+
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="149dp" />
+
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="26dp"
+        android:text="Wallet"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="208dp" />
+
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="26dp"
+
+        android:text="Payment"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="269dp" />
+
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Pacakges"
+        android:layout_marginLeft="26dp"
+
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteY="329dp" />
+
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="26dp"
+
+        android:text="Free rides"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="-9dp"
+        tools:layout_editor_absoluteY="390dp" />
+
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="26dp"
+
+        android:text="Settings"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="-34dp"
+        tools:layout_editor_absoluteY="460dp" />
+
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="26dp"
+
+        android:text="Help"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="534dp" />
+
+
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="26dp"
+
+        android:text="Legal"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="596dp" />
+
+    <TextView
+
+        android:id="@+id/Show_count"
+        android:layout_width="419dp"
+        android:layout_height="128dp"
+        android:layout_weight="1"
+        android:background="#FF6200EE"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="202dp"
+        android:layout_height="143dp"
+        app:srcCompat="@drawable/S"
+        tools:layout_editor_absoluteX="221dp"
+        tools:layout_editor_absoluteY="-15dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
